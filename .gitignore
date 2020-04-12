@@ -1,3 +1,4 @@
 node_modules/
+assets/scss/*.scss
 .DS_Store
 haters
